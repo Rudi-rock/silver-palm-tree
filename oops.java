@@ -1,5 +1,14 @@
+
 public class oops {
     public static void main(String[] args) {
-        System.out.println("Hello from oops!");
+        System.out.println("OOPS");
+        System.out.println();
+        System.out.println(" **** " + " **** " + "***** " + "***** ");
+        System.out.println("*    *" + "*    *" + "*    *" + "*     ");
+        System.out.println("*    *" + "*    *" + "*    *" + "*     ");
+        System.out.println("*    *" + "*    *" + "***** " + "***** ");
+        System.out.println("*    *" + "*    *" + "*     " + "     *");
+        System.out.println("*    *" + "*    *" + "*     " + "     *");
+        System.out.println(" **** " + " **** " + "*     " + "***** ");
     }
 }
